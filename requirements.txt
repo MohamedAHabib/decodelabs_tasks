@@ -1,0 +1,7 @@
+# KHAN AI Chatbot — Requirements
+# No external packages required.
+# Only Python standard library modules are used.
+
+# To run the notebook, install Jupyter:
+jupyter>=1.0.0
+notebook>=7.0.0
